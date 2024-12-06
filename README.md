@@ -1,4 +1,4 @@
-# Hello, Welcome! I'm Erling Wulf Weinreich 👋
+# Hello, Welcome! I'm Erling 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/hex316aa?style=social)](https://github.com/hex316aa/followers)
 
