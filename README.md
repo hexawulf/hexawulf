@@ -2,7 +2,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/hex316aa?style=social)](https://github.com/hex316aa/followers)
 
-You can find me on GitHub as [@hex316aa](https://github.com/hex316aa).
+You can find me on GitHub as [@hexawulf](https://github.com/hex316aa).
 
 ## About Me
 
