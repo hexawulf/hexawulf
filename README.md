@@ -11,7 +11,7 @@ I'm currently an undergraduate student of Computer Science at IU, Germany.  Whil
 My background is quite diverse:
 
 * 🎓 **M.A. in Classical Chinese:**  I have a deep appreciation for Chinese language and culture, stemming from years of study and experience.
-* 💼 **Managing Director:** For over 21 years, I've led a China import company, giving me valuable business acumen and international experience.
+* 💼 **Managing Director:** For over 23 years, I've led a China import company, giving me valuable business acumen and international experience.
 * 📚 **Lifelong Learner:**  At 50+, I'm proving that it's never too late to pursue new passions. I'm eager to delve into the world of computer science and explore its endless possibilities.
 
 ## My Interests
