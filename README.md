@@ -1,6 +1,6 @@
 # Hello, Welcome!👋
 
-[![GitHub followers](https://img.shields.io/github/followers/hex316aa?style=social)](https://github.com/hex316aa/followers)
+[![GitHub followers](https://img.shields.io/github/followers/hexawulf?style=social)](https://github.com/hexawulf/followers)
 
 You can find me on GitHub as [@hexawulf](https://github.com/hexawulf).
 
