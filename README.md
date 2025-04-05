@@ -4,7 +4,7 @@
 
 You can find me on GitHub as [@hexawulf](https://github.com/hexawulf).
 
-![Banner Image] https://github.com/hexawulf/hexawulf/blob/main/0xWulf_Banner_ChatGPT%20Image%20Mar%2030,%202025,%2007_46_40%20AM.png?raw=true
+![Banner Image](https://github.com/hexawulf/hexawulf/blob/main/0xWulf_Banner_ChatGPT%20Image%20Mar%2030,%202025,%2007_46_40%20AM.png)
 
 ## About Me
 
