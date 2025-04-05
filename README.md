@@ -18,7 +18,7 @@ My background is quite diverse:
 
 ## My Interests
 
-* 💻 **Coding:** I enjoy the challenge of building things am totally new to coding.
+* 💻 **Coding:** I enjoy the challenge of building things am totally new to coding. I post extremely entry-level Java 1st semester projects here.
 * 📖 **Reading:**  Avid reader across various genres, with a particular fondness for sci-fi.
 * 🐉 **Chinese Culture:**  Passionate about all aspects of Chinese culture, from language and history to philosophy and art.
 * 🤖 **AI:**  Intrigued by the potential of artificial intelligence and its impact on our future.
