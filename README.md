@@ -8,24 +8,34 @@ You can find me on GitHub as [@hexawulf](https://github.com/hexawulf).
 
 ## About Me
 
-I'm currently an undergraduate student of Computer Science at IU, Germany.  While my path to computer science may be a bit unconventional, I'm driven by a lifelong passion for learning and a fascination with technology.
+I'm a Computer Science undergraduate at IU, Germany, blending a lifelong love of learning with a deep curiosity about technology. While my path may be unconventional, it's fueled by purpose and passion.
 
 My background is quite diverse:
 
-* 🎓 **M.A. in Classical Chinese:**  I have a deep appreciation for Chinese language and culture, stemming from years of study and experience.
-* 💼 **Managing Director:** For over 23 years, I've led a China import company, giving me valuable business acumen and international experience.
-* 📚 **Lifelong Learner:**  At 50+, I'm proving that it's never too late to pursue new passions. I'm eager to delve into the world of computer science and explore its endless possibilities.
+🎓 M.A. in Classical Chinese – Years of studying Chinese language, literature, and culture have shaped my worldview and deepened my appreciation for tradition and complexity.
+💼 Managing Director – With over 23 years running a China-based import/export business, I bring cross-cultural insight and strategic experience to everything I do.
+📚 Lifelong Learner – At 50+, I'm proving it's never too late to reinvent yourself. CS is my newest passion, and I’m diving in headfirst.
 
 ## My Interests
 
-* 💻 **Coding:** I enjoy the challenge of building things am totally new to coding. I post extremely entry-level Java 1st semester projects here.
-* 📖 **Reading:**  Avid reader across various genres, with a particular fondness for sci-fi.
-* 🐉 **Chinese Culture:**  Passionate about all aspects of Chinese culture, from language and history to philosophy and art.
-* 🤖 **AI:**  Intrigued by the potential of artificial intelligence and its impact on our future.
-* 🔬 **Computer Science:**  Excited to learn as much as I can about this ever-evolving field.
+💻 Coding – I enjoy the challenge of building things. I'm completely new to coding and currently focused on first-semester Java projects.
+📖 Reading – Avid reader across genres, with a particular love for sci-fi.
+🧧 Chinese Culture – Passionate about language, history, philosophy, and art.
+🤖 AI – Intrigued by how artificial intelligence is shaping the future.
+🔬 Computer Science – Eager to learn as much as I can about this ever-evolving field.
 
-## Get in Touch
+## 🧰 Tech Stack
+
+- 💻 **Languages & Tools**: Java (beginner), Git, Bash, Eclipse IDE, JavaFX, Markdown
+- 🐧 **OS**: Ubuntu Linux (main system)
+- 🌐 **Concepts**: Object-Oriented Programming, Exception Handling, Number Systems
+
+
+**– 0xWulf 🐺 | Coding my second life**
 
 Feel free to connect with me on GitHub or reach out if you'd like to collaborate on interesting projects.
 
-🇹🇼 Currently based in Taipei, Taiwan.
+Feel free to connect with me on GitHub or reach out if you'd like to collaborate on interesting projects.
+
+📍 Based in Taipei, Taiwan  
+📬 Email: [hexawulf@proton.me](mailto:hexawulf@proton.me)
