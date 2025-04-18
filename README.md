@@ -13,7 +13,7 @@ I'm a Computer Science undergraduate at IU, Germany, blending a lifelong love of
 My background is quite diverse:
 
 🎓 M.A. in Classical Chinese – Years of studying Chinese language, literature, and culture have shaped my worldview and deepened my appreciation for tradition and complexity.
-💼 Managing Director – With almost 25 years running a China-based import/export business, I bring cross-cultural insight and strategic experience to everything I do.
+💼 Managing Director – With over 24 years running a China-based import/export business, I bring cross-cultural insight and strategic experience to everything I do.
 📚 Lifelong Learner – At 50+, I'm proving it's never too late to reinvent yourself. CS is my newest passion, and I’m diving in headfirst.
 
 ## My Interests
