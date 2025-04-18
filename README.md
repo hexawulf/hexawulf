@@ -35,7 +35,5 @@ My background is quite diverse:
 
 Feel free to connect with me on GitHub or reach out if you'd like to collaborate on interesting projects.
 
-Feel free to connect with me on GitHub or reach out if you'd like to collaborate on interesting projects.
-
 📍 Based in Taipei, Taiwan  
 📬 Email: [hexawulf@proton.me](mailto:hexawulf@proton.me)
