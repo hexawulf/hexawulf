@@ -38,7 +38,7 @@ Interactive dashboards that surface personal reading trends from Goodreads CSV e
 
 **Tech Stack:** React • Recharts • Node.js • Express • CSV Parser
 
-![Reading Tracker](https://img.shields.io/badge/📈_Live_Demo-mybooks.piapps.dev-success?style=flat-square)
+[![Reading Tracker](https://img.shields.io/badge/📈_Live_Demo-mybooks.piapps.dev-success?style=flat-square)](https://mybooks.piapps.dev)
 
 </td>
 <td width="50%">
@@ -52,7 +52,7 @@ Convert raw CSV data into filterable, editable tables with zero backend dependen
 
 **Tech Stack:** React 18 • TypeScript • Vite • Tailwind • shadcn/ui
 
-![Table Tamer](https://img.shields.io/badge/🔧_Live_Demo-tabletamer.piapps.dev-blue?style=flat-square)
+[![Table Tamer](https://img.shields.io/badge/🔧_Live_Demo-tabletamer.piapps.dev-blue?style=flat-square)](https://tabletamer.piapps.dev)
 
 </td>
 </tr>
@@ -68,7 +68,7 @@ Visual code snippet organization with Firebase auth, full-text search, and publi
 
 **Tech Stack:** React • Tailwind • TypeScript • Node.js • PostgreSQL • Firebase
 
-![CodePatchwork](https://img.shields.io/badge/🎨_Live_Demo-codepatchwork.com-purple?style=flat-square)
+[![CodePatchwork](https://img.shields.io/badge/🎨_Live_Demo-codepatchwork.com-purple?style=flat-square)](https://codepatchwork.com)
 
 </td>
 </tr>
