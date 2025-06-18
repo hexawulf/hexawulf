@@ -57,7 +57,7 @@ Convert raw CSV data into filterable, editable tables with zero backend dependen
 </td>
 </tr>
 <tr>
-<td colspan="2" align="center">
+<td width="50%">
 
 ### 🧩 [CodePatchwork](https://github.com/hexawulf/CodePatchwork)
 *Pinterest-style code snippet manager*
@@ -69,6 +69,18 @@ Visual code snippet organization with Firebase auth, full-text search, and publi
 **Tech Stack:** React • Tailwind • TypeScript • Node.js • PostgreSQL • Firebase
 
 [![CodePatchwork](https://img.shields.io/badge/🎨_Live_Demo-codepatchwork.com-purple?style=flat-square)](https://codepatchwork.com)
+
+</td>
+<td width="50%">
+
+### 📝 [MarkdownMate](https://github.com/hexawulf/MarkdownMate)
+*Real-time collaborative markdown editor and previewer*
+
+**🚀 [Live Demo](https://markdown.piapps.dev) | 📂 [Source](https://github.com/hexawulf/MarkdownMate)**
+
+Tech Stack: React 18 • TypeScript • Vite • Tailwind • shadcn/ui • Monaco Editor • Marked.js • DOMPurify
+
+[![MarkdownMate](https://img.shields.io/badge/📝_Live_Demo-markdown.piapps.dev-green?style=flat-square)](https://markdown.piapps.dev)
 
 </td>
 </tr>
