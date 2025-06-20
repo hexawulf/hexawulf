@@ -84,6 +84,19 @@ Tech Stack: React 18 • TypeScript • Vite • Tailwind • shadcn/ui • Mona
 
 </td>
 </tr>
+<tr>
+<td width="50%">
+
+### 🔐 KeyJolt
+PGP key generator for privacy enthusiasts with secure deletion and rate limiting.
+
+*Tech Stack: Spring Boot 3 · Java 17 · Thymeleaf · Vanilla JS*
+
+[![Live Demo](https://img.shields.io/badge/-Live%20Demo-1DA1F2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://keyjolt.dev)
+[![Source](https://img.shields.io/badge/-Source-22272e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hexawulf/KeyJolt)
+
+</td>
+</tr>
 </table>
 
 ---
