@@ -96,6 +96,20 @@ PGP key generator for privacy enthusiasts with secure deletion and rate limiting
 [![Source](https://img.shields.io/badge/-Source-22272e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hexawulf/KeyJolt)
 
 </td>
+<td width="50%">
+
+### 🔧 [PiDeck](https://github.com/hexawulf/PiDeck)
+*Admin dashboard for managing Raspberry Pi 5 server*
+
+**🚀 [Live Demo](https://pideck.piapps.dev) | 📂 [Source Code](https://github.com/hexawulf/PiDeck)**
+
+Centralized control hub for apps and services hosted on a Raspberry Pi 5 running Ubuntu Linux 25.04.
+
+**Tech Stack:** Node.js • Express • React • TailwindCSS • PostgreSQL
+
+[![PiDeck Live Demo](https://img.shields.io/badge/🔧_Live_Demo-pideck.piapps.dev-blue?style=flat-square)](https://pideck.piapps.dev)
+
+</td>
 </tr>
 </table>
 
