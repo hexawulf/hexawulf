@@ -94,6 +94,8 @@ PGP key generator for privacy enthusiasts with secure deletion and rate limiting
 
 *Tech Stack: Spring Boot 3 · Java 17 · Thymeleaf · Vanilla JS*
 
+[![KeyJolt Live Demo](https://img.shields.io/badge/🔐_Live_Demo-keyjolt.dev-yellow?style=flat-square)](https://keyjolt.dev)
+
 </td>
 <td width="50%">
 
