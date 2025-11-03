@@ -26,36 +26,38 @@
 ## 🛠️ Featured Projects
 
 <table>
+
 <tr>
-<td width="50%">
+<td width="50%" style="vertical-align: top;">
 
-### 📊 [Reading-Habit-Tracker](https://github.com/hexawulf/reading-habit-tracker)
-*Transform Goodreads data into beautiful insights*
+<h3>🐳 <a href="https://github.com/hexawulf/ContainerYard">ContainerYard</a></h3>
+<p><em>Real-time Docker observability for developers</em></p>
 
-**🚀 [Live Demo](https://mybooks.piapps.dev) | 📂 [Source](https://github.com/hexawulf/reading-habit-tracker)**
+<p><strong>🚀 <a href="https://containeryard.org">Live Demo</a> | 📂 <a href="https://github.com/hexawulf/ContainerYard">Source</a></strong></p>
 
-Interactive dashboards that surface personal reading trends from Goodreads CSV exports.
+<p>ContainerYard is a powerful, developer-focused observability tool inspired by Dozzle, designed for real-time Docker container monitoring, log analysis, and debugging. Built with React 18 and Express, it provides a sleek interface for managing containers, analyzing logs, and troubleshooting issues—all optimized for modern developer workflows.</p>
 
-**Tech Stack:** React • Recharts • Node.js • Express • CSV Parser
+<p><strong>Tech Stack:</strong> React 18 • Node.js • Express</p>
 
-[![Reading Tracker](https://img.shields.io/badge/📈_Live_Demo-mybooks.piapps.dev-success?style=flat-square)](https://mybooks.piapps.dev)
+<p><a href="https://containeryard.org"><img alt="ContainerYard" src="https://img.shields.io/badge/%F0%9F%90%B3_Live_Demo-containeryard.org-success?style=flat-square"></a></p>
 
 </td>
-<td width="50%">
+<td width="50%" style="vertical-align: top;">
 
-### 📋 [TableTamer](https://github.com/hexawulf/tabletamer)
-*Browser-based CSV visualizer and editor*
+<h3>📋 <a href="https://github.com/hexawulf/tabletamer">TableTamer</a></h3>
+<p><em>Browser-based CSV visualizer and editor</em></p>
 
-**🚀 [Live Demo](https://tabletamer.piapps.dev) | 📂 [Source](https://github.com/hexawulf/tabletamer)**
+<p><strong>🚀 <a href="https://tabletamer.piapps.dev">Live Demo</a> | 📂 <a href="https://github.com/hexawulf/tabletamer">Source</a></strong></p>
 
-Convert raw CSV data into filterable, editable tables with zero backend dependency.
+<p>Convert raw CSV data into filterable, editable tables with zero backend dependency.</p>
 
-**Tech Stack:** React 18 • TypeScript • Vite • Tailwind • shadcn/ui
+<p><strong>Tech Stack:</strong> React 18 • TypeScript • Vite • Tailwind • shadcn/ui</p>
 
-[![Table Tamer](https://img.shields.io/badge/🔧_Live_Demo-tabletamer.piapps.dev-blue?style=flat-square)](https://tabletamer.piapps.dev)
+<p><a href="https://tabletamer.piapps.dev"><img alt="TableTamer" src="https://img.shields.io/badge/%F0%9F%94%A7_Live_Demo-tabletamer.piapps.dev-blue?style=flat-square"></a></p>
 
 </td>
 </tr>
+  
 <tr>
 <td width="50%">
 
