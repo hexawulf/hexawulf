@@ -7,7 +7,7 @@
 *Building modern web applications with clean code and great UX*
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-0xwulf.dev-blue?style=for-the-badge)](https://0xwulf.dev)
-[![Email](https://img.shields.io/badge/📧_Email-dev@0xwulf.dev-red?style=for-the-badge)](mailto:dev@0xwulf.dev)
+[![Email](https://img.shields.io/badge/📧_Email-zk@hexawulf.dev-red?style=for-the-badge)](mailto:zk@hexawulf.dev)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/hexawulf)
 
 </div>
