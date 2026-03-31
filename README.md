@@ -98,6 +98,8 @@ Tech Stack: React 18 • TypeScript • Vite • Tailwind • shadcn/ui • Mona
 
 [![KeyJolt Live Demo](https://img.shields.io/badge/🔐_Live_Demo-keyjolt.dev-yellow?style=flat-square)](https://keyjolt.dev)
 
+[![KeyJolt Live Demo](https://img.shields.io/badge/🔐_Live_Demo-keyjolt.dev-yellow?style=flat-square)](https://keyjolt.dev)
+
 </td>
 <td width="50%">
 
