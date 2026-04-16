@@ -17,6 +17,7 @@
 ## 🚀 About Me
 
 🎓 **B.A. Computer Science** student at International University of Applied Sciences (IU Germany)  
+🎓 **M.A. in Sinology** — Background in classical Chinese language and philosophy
 🐧 **Linux-first workflows** — Ubuntu is my daily driver for development and study  
 📚 **Learning Journey** — Currently learning Vue.js and Node.js  
 🎯 **Focus** — Building small tools that help me on my study journey and solve real-world problems  
