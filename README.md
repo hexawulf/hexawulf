@@ -182,7 +182,7 @@
 
 <div align="center">
 
-**🐺 "Code with purpose, learn every day"**
+**🐺 Dennis Ritchie — "The only way to learn a new programming language is by writing programs in it."**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=hexawulf&color=blue&style=flat-square)
 [![GitHub followers](https://img.shields.io/github/followers/hexawulf?label=Follow&style=social)](https://github.com/hexawulf)
