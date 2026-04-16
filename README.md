@@ -34,7 +34,7 @@
 
 <p><strong>🚀 <a href="https://mybooks.piapps.dev/">Live Demo</a> | 📂 <a href="https://github.com/hexawulf/reading-habit-tracker">Source</a></strong></p>
 
-<p>Upload your Goodreads library export CSV and get insightful visualizations and statistics about your reading history. Built to keep myself accountable on my reading goals.</p>
+<p>Upload your Goodreads library export CSV and get insightful visualizations and statistics about your reading history. Built to track my reading goals.</p>
 
 <p><strong>Tech Stack:</strong> React • Node.js • Express • Recharts</p>
 
