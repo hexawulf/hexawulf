@@ -1,9 +1,8 @@
 <div align="center">
 
-
 # Hey there! I'm 0xWulf 👋
 
-### 🎓 CS Student | 🐧 Linux Enthusiast | 📚 Lifelong Learner
+### 🎓 CS Student | 🎓 M.A. in Sinology | 🐧 Linux Enthusiast | 📚 Lifelong Learner
 
 *Building small tools that help me study better and solve real-world problems*
 
@@ -28,7 +27,6 @@
 
 <table>
 
-
 <tr>
 <td width="50%" style="vertical-align: top;">
 
@@ -38,6 +36,8 @@
 <p><strong>🚀 <a href="https://mybooks.piapps.dev/">Live Demo</a> | 📂 <a href="https://github.com/hexawulf/reading-habit-tracker">Source</a></strong></p>
 
 <p>Upload your Goodreads library export CSV and get insightful visualizations and statistics about your reading history. Built to keep myself accountable on my reading goals.</p>
+
+<p><strong>Tech Stack:</strong> React • Node.js • Express • Recharts</p>
 
 </td>
 <td width="50%" style="vertical-align: top;">
@@ -62,7 +62,7 @@
 
 <p><strong>🚀 <a href="https://hexawulf.github.io/confucius/">Live Demo</a> | 📂 <a href="https://github.com/hexawulf/confucius">Source</a></strong></p>
 
-<p>A personal project to preserve and explore my German translations of Confucian texts, rebuilt as a modern searchable website.</p>
+<p>A personal project to preserve my German translations of Confucian texts, rebuilt as a modern searchable website.</p>
 
 <p><strong>Tech Stack:</strong> Vue 3 • Vite</p>
 
@@ -116,7 +116,6 @@
 
 <div align="center">
 
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hexawulf&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hexawulf&layout=compact&langs_count=8&theme=dark"/>
 
@@ -127,28 +126,24 @@
 ## 💻 Tech Stack & Skills
 
 ### **Languages**
-
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### **Frontend**
-
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 ### **Backend & Database**
-
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### **Tools & Platforms**
-
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -167,7 +162,6 @@
 
 <div align="center">
 
-
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hexawulf&theme=react-dark&hide_border=true)
 
 </div>
@@ -177,7 +171,6 @@
 ## 🤝 Let's Connect!
 
 <div align="center">
-
 
 **Always happy to learn from others and share what I'm working on.**
 
@@ -189,7 +182,6 @@
 ---
 
 <div align="center">
-
 
 **🐺 "Code with purpose, learn every day"**
 
