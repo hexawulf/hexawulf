@@ -86,7 +86,7 @@
 <h3>📊 <a href="https://github.com/hexawulf/probplots-web">ProbPlots Web</a></h3>
 <p><em>Probability & statistics calculator with plots</em></p>
 
-<p><strong>📂 <a href="https://github.com/hexawulf/probplots-web">Source</a></strong></p>
+<p><strong>🚀 <a href="https://probplots.piapps.dev">Live Demo</a> |📂 <a href="https://github.com/hexawulf/probplots-web">Source</a></strong></p>
 
 <p>A web interface for computing Normal, Binomial, Poisson, CLT, and joint distributions — with PNG plot output. Built to help me study for my statistics exams.</p>
 
