@@ -153,9 +153,9 @@
 
 ## 🔭 Current Focus
 
-📚 **Learning Vue.js & Node.js** — Working through courses and building real projects along the way<br>
-🛠️ **[SnippetMate](https://github.com/hexawulf/SnippetMate)** — A snippet manager SPA built with Vue 3, Express, and MySQL for my university project<br>
-🐧 **Linux-First Development** — Ubuntu is my daily environment for coding, studying, and experimenting
+- 📚 **Learning Vue.js & Node.js** — Working through courses and building real projects along the way
+- 🛠️ **[SnippetMate](https://github.com/hexawulf/SnippetMate)** — A snippet manager SPA built with Vue 3, Express, and MySQL for my university project
+- 🐧 **Linux-First Development** — Ubuntu is my daily environment for coding, studying, and experimenting
 ---
 
 ## 📈 Contribution Activity
