@@ -31,14 +31,14 @@
 <tr>
 <td width="50%" style="vertical-align: top;">
 
-<h3>📖 <a href="https://github.com/hexawulf/reading-habit-tracker">Reading Habit Tracker</a></h3>
-<p><em>Track and visualize your reading habits</em></p>
+<h3>🧧 <a href="https://github.com/hexawulf/confucius">Confucius</a></h3>
+<p><em>Searchable archive of German Confucius translations</em></p>
 
-<p><strong>🚀 <a href="https://mybooks.piapps.dev/">Live Demo</a> | 📂 <a href="https://github.com/hexawulf/reading-habit-tracker">Source</a></strong></p>
+<p><strong>🚀 <a href="https://hexawulf.github.io/confucius/">Live Demo</a> | 📂 <a href="https://github.com/hexawulf/confucius">Source</a></strong></p>
 
-<p>Upload your Goodreads library export CSV and get insightful visualizations and statistics about your reading history. Built to track my reading goals.</p>
+<p>A personal project to preserve my German translations of Confucian texts, rebuilt as a modern searchable website.</p>
 
-<p><strong>Tech Stack:</strong> React • Node.js • Express • Recharts</p>
+<p><strong>Tech Stack:</strong> Vue 3 • Vite</p>
 
 </td>
 <td width="50%" style="vertical-align: top;">
@@ -58,14 +58,14 @@
 <tr>
 <td width="50%" style="vertical-align: top;">
 
-<h3>🧧 <a href="https://github.com/hexawulf/confucius">Confucius</a></h3>
-<p><em>Searchable archive of German Confucius translations</em></p>
+<h3>📖 <a href="https://github.com/hexawulf/reading-habit-tracker">Reading Habit Tracker</a></h3>
+<p><em>Track and visualize your reading habits</em></p>
 
-<p><strong>🚀 <a href="https://hexawulf.github.io/confucius/">Live Demo</a> | 📂 <a href="https://github.com/hexawulf/confucius">Source</a></strong></p>
+<p><strong>🚀 <a href="https://mybooks.piapps.dev/">Live Demo</a> | 📂 <a href="https://github.com/hexawulf/reading-habit-tracker">Source</a></strong></p>
 
-<p>A personal project to preserve my German translations of Confucian texts, rebuilt as a modern searchable website.</p>
+<p>Upload your Goodreads library export CSV and get insightful visualizations and statistics about your reading history. Built to track my reading goals.</p>
 
-<p><strong>Tech Stack:</strong> Vue 3 • Vite</p>
+<p><strong>Tech Stack:</strong> React • Node.js • Express • Recharts</p>
 
 </td>
 <td width="50%" style="vertical-align: top;">
