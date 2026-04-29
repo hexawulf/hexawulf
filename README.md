@@ -21,7 +21,7 @@
 🐧 **Linux-first workflows** — Ubuntu is my daily driver for development and study<br>
 📚 **Learning Journey** — Currently learning Vue.js and Node.js<br>
 🎯 **Focus** — Building tools that help me on my study journey and solve real-world problems<br/>
-🍓 **Self-Hosted** — Most of my app projects run locally on [piapps.dev](http://piapps.dev), my Raspberry Pi 5 home server running Ubuntu 26.04 + Nginx
+🍓 **Self-Hosted** — Most of my app projects run locally on [piapps.dev](http://piapps.dev), my Raspberry Pi 5 server running Ubuntu 26.04 + Nginx
 
 ---
 
