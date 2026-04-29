@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey there! I'm 0xWulf 👋
+# 0xWulf
 
 ### 🎓 CS Student | 🎓 M.A. in Sinology | 🐧 Linux Enthusiast | 📚 Lifelong Learner
 
@@ -13,7 +13,9 @@
 </div>
 
 ---
+
 ## 🚀 About Me
+
 🎓 **B.A. Computer Science** student at International University of Applied Sciences (IU Germany)<br>
 🎓 **M.A. in Sinology** — Background in classical Chinese language and philosophy<br>
 🐧 **Linux-first workflows** — Ubuntu is my daily driver for development and study<br>
@@ -151,10 +153,9 @@
 
 ## 🔭 Current Focus
 
-📚 **Learning Vue.js & Node.js** — Working through courses and building real projects along the way  
-🛠️ **SnippetMate** — A snippet manager SPA built with Vue 3, Express, and MySQL for my university project  
-🐧 **Linux-First Development** — Ubuntu is my daily environment for coding, studying, and experimenting  
-
+📚 **Learning Vue.js & Node.js** — Working through courses and building real projects along the way<br>
+🛠️ **[SnippetMate](https://github.com/hexawulf/SnippetMate)** — A snippet manager SPA built with Vue 3, Express, and MySQL for my university project<br>
+🐧 **Linux-First Development** — Ubuntu is my daily environment for coding, studying, and experimenting
 ---
 
 ## 📈 Contribution Activity
@@ -162,31 +163,5 @@
 <div align="center">
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hexawulf&theme=react-dark&hide_border=true)
-
-</div>
-
----
-
-## 🤝 Let's Connect!
-
-<div align="center">
-
-**Always happy to learn from others and share what I'm working on.**
-
-[![Email Me](https://img.shields.io/badge/📧_Email_Me-dev@0xwulf.dev-blue?style=for-the-badge)](mailto:dev@0xwulf.dev)
-[![Start Discussion](https://img.shields.io/badge/💬_Start_Discussion-GitHub-black?style=for-the-badge&logo=github)](https://github.com/hexawulf/hexawulf/discussions)
-
-</div>
-
----
-
-<div align="center">
-
-**🐺 Dennis Ritchie — "The only way to learn a new programming language is by writing programs in it."**
-
-![Profile Views](https://komarev.com/ghpvc/?username=hexawulf&color=blue&style=flat-square)
-[![GitHub followers](https://img.shields.io/github/followers/hexawulf?label=Follow&style=social)](https://github.com/hexawulf)
-
-*Thanks for visiting! ⭐ Star my repos if you find them useful*
 
 </div>
