@@ -20,7 +20,7 @@
 🎓 **M.A. in Sinology** — Background in classical Chinese language and philosophy<br>
 🐧 **Linux-first workflows** — Ubuntu is my daily driver for development and study<br>
 📚 **Learning Journey** — Currently learning Vue.js and Node.js<br>
-🎯 **Current Focus** — Current focus: Vue.js, Node.js/Express, MySQL, responsive web apps<br/>
+🎯 **Current Focus** — Vue.js, Node.js/Express, MySQL, responsive web apps<br/>
 🍓 **Self-Hosted** — Most of my app projects run locally on [piapps.dev](http://piapps.dev), my Raspberry Pi 5 server running Ubuntu 26.04 + Nginx
 
 ---
