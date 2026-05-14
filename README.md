@@ -2,7 +2,7 @@
 
 # 0xWulf
 
-### 🎓 CS Student | 🎓 M.A. in Sinology | 🐧 Linux Enthusiast | 📚 Lifelong Learner
+### 🎓 Computer Science Student | 🐧 Linux Enthusiast | 📚 Lifelong Learner
 
 *Building small tools that help me study better and solve real-world problems*
 
