@@ -43,14 +43,14 @@
 </td>
 <td width="50%" style="vertical-align: top;">
 
-<h3>📋 <a href="https://github.com/hexawulf/tabletamer">TableTamer</a></h3>
-<p><em>Browser-based CSV visualizer and editor</em></p>
+<h3>✂️ <a href="https://github.com/hexawulf/SnippetMate">SnippetMate</a></h3>
+<p><em>Personal code snippet manager</em></p>
 
-<p><strong>🚀 <a href="https://tabletamer.piapps.dev">Live Demo</a> | 📂 <a href="https://github.com/hexawulf/tabletamer">Source</a></strong></p>
+<p><strong>🚀 Live Demo | 📂 <a href="https://github.com/hexawulf/SnippetMate">Source</a></strong></p>
 
-<p>Convert raw CSV data into filterable, editable tables with zero backend dependency. A handy tool for quickly inspecting data files.</p>
+<p>A snippet manager SPA built with Vue 3, Express, and MySQL for my university project.</p>
 
-<p><strong>Tech Stack:</strong> React 18 • TypeScript • Vite • Tailwind • shadcn/ui</p>
+<p><strong>Tech Stack:</strong> Vue 3 + Vite + Bootstrap 5 • Node.js + Express • MySQL 8</p>
 
 </td>
 </tr>
@@ -97,14 +97,14 @@
 </td>
 <td width="50%" style="vertical-align: top;">
 
-<h3>🔐 <a href="https://github.com/hexawulf/KeyJolt">KeyJolt</a></h3>
-<p><em>PGP key generator with secure deletion</em></p>
+<h3>📋 <a href="https://github.com/hexawulf/tabletamer">TableTamer</a></h3>
+<p><em>Browser-based CSV visualizer and editor</em></p>
 
-<p><strong>🚀 <a href="https://keyjolt.dev">Live Demo</a> | 📂 <a href="https://github.com/hexawulf/KeyJolt">Source</a></strong></p>
+<p><strong>🚀 <a href="https://tabletamer.piapps.dev">Live Demo</a> | 📂 <a href="https://github.com/hexawulf/tabletamer">Source</a></strong></p>
 
-<p>Generate PGP keys for privacy enthusiasts, with secure deletion and rate limiting. My first Spring Boot project.</p>
+<p>Convert raw CSV data into filterable, editable tables with zero backend dependency. A handy tool for quickly inspecting data files.</p>
 
-<p><strong>Tech Stack:</strong> Spring Boot 3 • Java 17 • Thymeleaf • Vanilla JS</p>
+<p><strong>Tech Stack:</strong> React 18 • TypeScript • Vite • Tailwind • shadcn/ui</p>
 
 </td>
 </tr>
