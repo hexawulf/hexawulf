@@ -94,6 +94,8 @@
 
 <p><strong>Tech Stack:</strong> Python • FastAPI • Tailwind</p>
 
+[![KeyJolt Live Demo](https://img.shields.io/badge/🔐_Live_Demo-keyjolt.dev-yellow?style=flat-square)](https://keyjolt.dev)
+
 </td>
 <td width="50%" style="vertical-align: top;">
 
