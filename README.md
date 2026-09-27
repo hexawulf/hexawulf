@@ -31,14 +31,14 @@
 <tr>
 <td width="50%" style="vertical-align: top;">
 
-<h3>🧧 <a href="https://github.com/hexawulf/confucius">Confucius</a></h3>
-<p><em>Searchable archive of German Confucius translations</em></p>
+<h3>🍓 <a href="https://github.com/hexawulf/PiDeck">PiDeck</a></h3>
+<p><em>Raspberry Pi admin dashboard</em></p>
 
-<p><strong>🚀 <a href="https://hexawulf.github.io/confucius/">Live Demo</a> | 📂 <a href="https://github.com/hexawulf/confucius">Source</a></strong></p>
+<p><strong>🚀 <a href="https://pideck.piapps.dev">Live Demo</a> | 📂 <a href="https://github.com/hexawulf/PiDeck">Source</a> | 🏷️ <a href="https://github.com/hexawulf/PiDeck/releases/tag/v2.0.0-p1">v2.0</a></strong></p>
 
-<p>A personal project to preserve my German translations of Confucian texts, rebuilt as a modern searchable website.</p>
+<p>The control hub for my self-hosted Raspberry Pi 5 server: live system metrics and history charts, logs, Docker and PM2 apps, and cron jobs in one place. Version 2.0 adds deep-linkable tabs, self-healing widgets, and light and dark themes.</p>
 
-<p><strong>Tech Stack:</strong> Vue 3 • Vite</p>
+<p><strong>Tech Stack:</strong> React 18 • TypeScript • Vite • Tailwind • Express • PostgreSQL • Playwright</p>
 
 </td>
 <td width="50%" style="vertical-align: top;">
@@ -85,14 +85,14 @@
 <tr>
 <td width="50%" style="vertical-align: top;">
 
-<h3>📊 <a href="https://github.com/hexawulf/probplots-web">ProbPlots Web</a></h3>
-<p><em>Probability & statistics calculator with plots</em></p>
+<h3>🔐 <a href="https://github.com/hexawulf/KeyJolt">KeyJolt</a></h3>
+<p><em>Secure PGP &amp; SSH key generator</em></p>
 
-<p><strong>🚀 <a href="https://probplots.piapps.dev">Live Demo</a> |📂 <a href="https://github.com/hexawulf/probplots-web">Source</a></strong></p>
+<p><strong>🚀 <a href="https://keyjolt.dev">Live Demo</a> | 📂 <a href="https://github.com/hexawulf/KeyJolt">Source</a></strong></p>
 
-<p>A web interface for computing Normal, Binomial, Poisson, CLT, and joint distributions — with PNG plot output. Built to help me study for my statistics exams.</p>
+<p>Generate RSA PGP and SSH key pairs (2048–4096 bit) from a simple web form. Private keys are overwritten and deleted right after download, with rate limiting and strict security headers.</p>
 
-<p><strong>Tech Stack:</strong> Python • FastAPI • Tailwind</p>
+<p><strong>Tech Stack:</strong> Java 17 • Spring Boot 3 • Spring Security • Bouncy Castle • Thymeleaf</p>
 
 </td>
 <td width="50%" style="vertical-align: top;">
