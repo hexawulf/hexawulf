@@ -46,11 +46,11 @@
 <h3>✂️ <a href="https://github.com/hexawulf/SnippetMate">SnippetMate</a></h3>
 <p><em>Personal code snippet manager</em></p>
 
-<p><strong>🚀 Live Demo | 📂 <a href="https://github.com/hexawulf/SnippetMate">Source</a></strong></p>
+<p><strong>🚀 <a href="https://www.snippetmate.com">Live Demo</a> | 📂 <a href="https://github.com/hexawulf/SnippetMate">Source</a></strong></p>
 
 <p>A snippet manager SPA built with Vue 3, Express, and MySQL for my university project.</p>
 
-<p><strong>Tech Stack:</strong> Vue 3 + Vite + Bootstrap 5 • Node.js + Express • MySQL 8</p>
+<p><strong>Tech Stack:</strong> Vue 3 • Vite • Bootstrap 5 • Node.js • Express • MySQL 8</p>
 
 </td>
 </tr>
@@ -58,14 +58,14 @@
 <tr>
 <td width="50%" style="vertical-align: top;">
 
-<h3>📖 <a href="https://github.com/hexawulf/reading-habit-tracker">Reading Habit Tracker</a></h3>
-<p><em>Track and visualize your reading habits</em></p>
+<h3>🐍 <a href="https://github.com/hexawulf/py-scratchpad">py-scratchpad</a></h3>
+<p><em>Browser-only Python scratchpad</em></p>
 
-<p><strong>🚀 <a href="https://mybooks.piapps.dev/">Live Demo</a> | 📂 <a href="https://github.com/hexawulf/reading-habit-tracker">Source</a></strong></p>
+<p><strong>🚀 <a href="https://py-scratchpad.com">Live Demo</a> | 📂 <a href="https://github.com/hexawulf/py-scratchpad">Source</a></strong></p>
 
-<p>Upload your Goodreads library export CSV and get insightful visualizations and statistics about your reading history. Built to track my reading goals.</p>
+<p>A small Python editor to keep open next to a course video: syntax highlighting, autosave, and byte-for-byte .py import/export. Everything stays in the browser — no backend, no accounts.</p>
 
-<p><strong>Tech Stack:</strong> React • Node.js • Express • Recharts</p>
+<p><strong>Tech Stack:</strong> TypeScript • Vite • CodeMirror 6 • Vitest • Docker</p>
 
 </td>
 <td width="50%" style="vertical-align: top;">
