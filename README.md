@@ -20,7 +20,7 @@
 🎓 **M.A. in Sinology** — Background in classical Chinese language and philosophy<br>
 🐧 **Linux-first workflows** — Ubuntu is my daily driver for development and study · [`zk@linuxsvr`](https://linuxsvr.org)<br>
 📚 **Learning Journey** — Currently learning Vue.js<br>
-🍓 **Self-Hosted** — Most of my app projects run locally on [piapps.dev](http://piapps.dev), my Raspberry Pi 5 server running Ubuntu 26.04 + Nginx
+🍓 **Self-Hosted** — Most of my app projects run locally on [piapps.dev](https://piapps.dev), my Raspberry Pi 5 server running Ubuntu 26.04 + Nginx
 
 ---
 
