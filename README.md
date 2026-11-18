@@ -32,52 +32,25 @@
 <td width="50%" style="vertical-align: top;">
 
 <h3>🍓 <a href="https://github.com/hexawulf/PiDeck">PiDeck</a></h3>
-<p><em>Raspberry Pi admin dashboard</em></p>
+<p><em>Admin dashboard for my self-hosted servers</em></p>
 
-<p><strong>🚀 <a href="https://pideck.piapps.dev">Live Demo</a> | 📂 <a href="https://github.com/hexawulf/PiDeck">Source</a> | 🏷️ <a href="https://github.com/hexawulf/PiDeck/releases/tag/v2.0.0-p1">v2.0</a></strong></p>
+<p><strong>🚀 <a href="https://pideck.piapps.dev">Live Demo</a> | 📂 <a href="https://github.com/hexawulf/PiDeck">Source</a> | 🏷️ <a href="https://github.com/hexawulf/PiDeck/releases/tag/v2.11.0">v2.11</a></strong></p>
 
-<p>The control hub for my self-hosted Raspberry Pi 5 server: live system metrics and history charts, logs, Docker and PM2 apps, and cron jobs in one place. Version 2.0 adds deep-linkable tabs, self-healing widgets, and light and dark themes.</p>
+<p>The control hub for my homelab: a hub on the Raspberry Pi 5 and small read-only agents on LAN machines, cloud VPSes (over WireGuard) and a Synology NAS. It shows live metrics and 24 h history, remote logs, Docker and PM2 apps, systemd services with alerts, and cron jobs, behind Google sign-in.</p>
 
 <p><strong>Tech Stack:</strong> React 18 • TypeScript • Vite • Tailwind • Express • PostgreSQL • Playwright</p>
 
 </td>
 <td width="50%" style="vertical-align: top;">
 
-<h3>✂️ <a href="https://github.com/hexawulf/SnippetMate">SnippetMate</a></h3>
-<p><em>Personal code snippet manager</em></p>
+<h3>🐳 <a href="https://github.com/hexawulf/ContainerYard">ContainerYard</a></h3>
+<p><em>Log-first Docker observability dashboard</em></p>
 
-<p><strong>🚀 <a href="https://www.snippetmate.com">Live Demo</a> | 📂 <a href="https://github.com/hexawulf/SnippetMate">Source</a></strong></p>
+<p><strong>🚀 <a href="https://containeryard.org">Website</a> | 📂 <a href="https://github.com/hexawulf/ContainerYard">Source</a> | 🏷️ <a href="https://github.com/hexawulf/ContainerYard/releases/tag/v5.1.0">v5.1</a> | 🐋 <a href="https://hub.docker.com/r/0xwulf/containeryard">Docker Hub</a></strong></p>
 
-<p>A snippet manager SPA built with Vue 3, Express, and MySQL for my university project.</p>
+<p>Real-time log streaming, Compose stack views and per-container metrics across several Docker and cAdvisor hosts, with roles and an audit log. Ships as a multi-arch image (amd64 and arm64) with SBOM and provenance from CI.</p>
 
-<p><strong>Tech Stack:</strong> Vue 3 • Vite • Bootstrap 5 • Node.js • Express • MySQL 8</p>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" style="vertical-align: top;">
-
-<h3>🐍 <a href="https://github.com/hexawulf/py-scratchpad">py-scratchpad</a></h3>
-<p><em>Browser-only Python scratchpad</em></p>
-
-<p><strong>🚀 <a href="https://py-scratchpad.com">Live Demo</a> | 📂 <a href="https://github.com/hexawulf/py-scratchpad">Source</a></strong></p>
-
-<p>A small Python editor to keep open next to a course video: syntax highlighting, autosave, and byte-for-byte .py import/export. Everything stays in the browser — no backend, no accounts.</p>
-
-<p><strong>Tech Stack:</strong> TypeScript • Vite • CodeMirror 6 • Vitest • Docker</p>
-
-</td>
-<td width="50%" style="vertical-align: top;">
-
-<h3>📝 <a href="https://github.com/hexawulf/MarkdownMate">MarkdownMate</a></h3>
-<p><em>Real-time markdown editor and previewer</em></p>
-
-<p><strong>🚀 <a href="https://markdown.piapps.dev">Live Demo</a> | 📂 <a href="https://github.com/hexawulf/MarkdownMate">Source</a></strong></p>
-
-<p>Write and preview Markdown side by side. I use this regularly for formatting course notes and README files.</p>
-
-<p><strong>Tech Stack:</strong> React 18 • TypeScript • Vite • Tailwind • Monaco Editor</p>
+<p><strong>Tech Stack:</strong> React 18 • TypeScript • Express • Prisma • SQLite • Redis • Docker</p>
 
 </td>
 </tr>
@@ -88,23 +61,50 @@
 <h3>🔐 <a href="https://github.com/hexawulf/KeyJolt">KeyJolt</a></h3>
 <p><em>Secure PGP &amp; SSH key generator</em></p>
 
-<p><strong>🚀 <a href="https://keyjolt.dev">Live Demo</a> | 📂 <a href="https://github.com/hexawulf/KeyJolt">Source</a></strong></p>
+<p><strong>🚀 <a href="https://keyjolt.dev">Live Demo</a> | 📂 <a href="https://github.com/hexawulf/KeyJolt">Source</a> | 🏷️ <a href="https://github.com/hexawulf/KeyJolt/releases/tag/v1.2.1">v1.2</a></strong></p>
 
-<p>Generate RSA PGP and SSH key pairs (2048–4096 bit) from a simple web form. Private keys are overwritten and deleted right after download, with rate limiting and strict security headers.</p>
+<p>Generate RSA PGP and SSH key pairs (2048–4096 bit) from a simple web form. Private keys are deleted right after download or at the latest after five minutes, with rate limiting and strict security headers.</p>
 
-<p><strong>Tech Stack:</strong> Java 17 • Spring Boot 3 • Spring Security • Bouncy Castle • Thymeleaf</p>
+<p><strong>Tech Stack:</strong> Java 17 • Spring Boot 4 • Spring Security • Bouncy Castle • Thymeleaf</p>
 
 </td>
 <td width="50%" style="vertical-align: top;">
 
-<h3>📋 <a href="https://github.com/hexawulf/tabletamer">TableTamer</a></h3>
-<p><em>Browser-based CSV visualizer and editor</em></p>
+<h3>🐍 <a href="https://github.com/hexawulf/py-scratchpad">py-scratchpad</a></h3>
+<p><em>Browser-only Python scratchpad</em></p>
 
-<p><strong>🚀 <a href="https://tabletamer.piapps.dev">Live Demo</a> | 📂 <a href="https://github.com/hexawulf/tabletamer">Source</a></strong></p>
+<p><strong>🚀 <a href="https://py-scratchpad.com">Live Demo</a> | 📂 <a href="https://github.com/hexawulf/py-scratchpad">Source</a> | 🏷️ <a href="https://github.com/hexawulf/py-scratchpad/releases/tag/v0.3.5">v0.3.5</a></strong></p>
 
-<p>Convert raw CSV data into filterable, editable tables with zero backend dependency. A handy tool for quickly inspecting data files.</p>
+<p>A small Python editor to keep open next to a course video: run code with Pyodide, syntax highlighting, autosave, and byte-for-byte .py import/export. Everything stays in the browser — no backend, no accounts.</p>
 
-<p><strong>Tech Stack:</strong> React 18 • TypeScript • Vite • Tailwind • shadcn/ui</p>
+<p><strong>Tech Stack:</strong> TypeScript • Vite • CodeMirror 6 • Pyodide • Vitest • Docker</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" style="vertical-align: top;">
+
+<h3>✂️ <a href="https://github.com/hexawulf/SnippetMate">SnippetMate</a></h3>
+<p><em>Personal code snippet manager</em></p>
+
+<p><strong>🚀 <a href="https://www.snippetmate.com">Live Demo</a> | 📂 <a href="https://github.com/hexawulf/SnippetMate">Source</a> | 🏷️ <a href="https://github.com/hexawulf/SnippetMate/releases/tag/v2.1.0">v2.1</a></strong></p>
+
+<p>Paste it, tag it, find it: a snippet manager SPA with Google sign-in, tags, search and JSON import/export. Built with Vue 3, Express and MySQL as my university project.</p>
+
+<p><strong>Tech Stack:</strong> Vue 3 • Vite • Bootstrap 5 • Node.js • Express • MySQL 8</p>
+
+</td>
+<td width="50%" style="vertical-align: top;">
+
+<h3>📝 <a href="https://github.com/hexawulf/MarkdownMate">MarkdownMate</a></h3>
+<p><em>Markdown editor with live preview</em></p>
+
+<p><strong>🚀 <a href="https://markdownmate.org">Live Demo</a> | 📂 <a href="https://github.com/hexawulf/MarkdownMate">Source</a> | 🏷️ <a href="https://github.com/hexawulf/MarkdownMate/releases/tag/v3.1.0">v3.1</a></strong></p>
+
+<p>Write and preview Markdown side by side, with math (KaTeX) and code highlighting. Documents stay in the browser and export to .md, HTML or PDF. I use it for course notes and README files.</p>
+
+<p><strong>Tech Stack:</strong> React 18 • TypeScript • Vite • Tailwind • Monaco Editor • Vitest</p>
 
 </td>
 </tr>
@@ -154,8 +154,9 @@
 ## 🔭 Current Focus
 
 - 📚 **Learning Vue.js & Node.js** — Working through courses and building real projects along the way
-- 🛠️ **[SnippetMate](https://github.com/hexawulf/SnippetMate)** — A snippet manager SPA built with Vue 3, Express, and MySQL for my university project
+- 🔒 **Hardening my self-hosted apps** — Tests, CI and security fixes across the projects above, one audit at a time
 - 🐧 **Linux-First Development** — Ubuntu is my daily environment for coding, studying, and experimenting
+
 ---
 
 ## 📈 Contribution Activity
