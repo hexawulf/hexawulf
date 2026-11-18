@@ -58,18 +58,6 @@
 <tr>
 <td width="50%" style="vertical-align: top;">
 
-<h3>🔐 <a href="https://github.com/hexawulf/KeyJolt">KeyJolt</a></h3>
-<p><em>Secure PGP &amp; SSH key generator</em></p>
-
-<p><strong>🚀 <a href="https://keyjolt.dev">Live Demo</a> | 📂 <a href="https://github.com/hexawulf/KeyJolt">Source</a> | 🏷️ <a href="https://github.com/hexawulf/KeyJolt/releases/tag/v1.2.1">v1.2</a></strong></p>
-
-<p>Generate RSA PGP and SSH key pairs (2048–4096 bit) from a simple web form. Private keys are deleted right after download or at the latest after five minutes, with rate limiting and strict security headers.</p>
-
-<p><strong>Tech Stack:</strong> Java 17 • Spring Boot 4 • Spring Security • Bouncy Castle • Thymeleaf</p>
-
-</td>
-<td width="50%" style="vertical-align: top;">
-
 <h3>🐍 <a href="https://github.com/hexawulf/py-scratchpad">py-scratchpad</a></h3>
 <p><em>Browser-only Python scratchpad</em></p>
 
@@ -80,21 +68,21 @@
 <p><strong>Tech Stack:</strong> TypeScript • Vite • CodeMirror 6 • Pyodide • Vitest • Docker</p>
 
 </td>
+<td width="50%" style="vertical-align: top;">
+
+<h3>🔐 <a href="https://github.com/hexawulf/KeyJolt">KeyJolt</a></h3>
+<p><em>Secure PGP &amp; SSH key generator</em></p>
+
+<p><strong>🚀 <a href="https://keyjolt.dev">Live Demo</a> | 📂 <a href="https://github.com/hexawulf/KeyJolt">Source</a> | 🏷️ <a href="https://github.com/hexawulf/KeyJolt/releases/tag/v1.2.1">v1.2</a></strong></p>
+
+<p>Generate RSA PGP and SSH key pairs (2048–4096 bit) from a simple web form. Private keys are deleted right after download or at the latest after five minutes, with rate limiting and strict security headers.</p>
+
+<p><strong>Tech Stack:</strong> Java 17 • Spring Boot 4 • Spring Security • Bouncy Castle • Thymeleaf</p>
+
+</td>
 </tr>
 
 <tr>
-<td width="50%" style="vertical-align: top;">
-
-<h3>✂️ <a href="https://github.com/hexawulf/SnippetMate">SnippetMate</a></h3>
-<p><em>Personal code snippet manager</em></p>
-
-<p><strong>🚀 <a href="https://www.snippetmate.com">Live Demo</a> | 📂 <a href="https://github.com/hexawulf/SnippetMate">Source</a> | 🏷️ <a href="https://github.com/hexawulf/SnippetMate/releases/tag/v2.1.0">v2.1</a></strong></p>
-
-<p>Paste it, tag it, find it: a snippet manager SPA with Google sign-in, tags, search and JSON import/export. Built with Vue 3, Express and MySQL as my university project.</p>
-
-<p><strong>Tech Stack:</strong> Vue 3 • Vite • Bootstrap 5 • Node.js • Express • MySQL 8</p>
-
-</td>
 <td width="50%" style="vertical-align: top;">
 
 <h3>📝 <a href="https://github.com/hexawulf/MarkdownMate">MarkdownMate</a></h3>
@@ -105,6 +93,18 @@
 <p>Write and preview Markdown side by side, with math (KaTeX) and code highlighting. Documents stay in the browser and export to .md, HTML or PDF. I use it for course notes and README files.</p>
 
 <p><strong>Tech Stack:</strong> React 18 • TypeScript • Vite • Tailwind • Monaco Editor • Vitest</p>
+
+</td>
+<td width="50%" style="vertical-align: top;">
+
+<h3>✂️ <a href="https://github.com/hexawulf/SnippetMate">SnippetMate</a></h3>
+<p><em>Personal code snippet manager</em></p>
+
+<p><strong>🚀 <a href="https://www.snippetmate.com">Live Demo</a> | 📂 <a href="https://github.com/hexawulf/SnippetMate">Source</a> | 🏷️ <a href="https://github.com/hexawulf/SnippetMate/releases/tag/v2.1.0">v2.1</a></strong></p>
+
+<p>Paste it, tag it, find it: a snippet manager SPA with Google sign-in, tags, search and JSON import/export. Built with Vue 3, Express and MySQL as my university project.</p>
+
+<p><strong>Tech Stack:</strong> Vue 3 • Vite • Bootstrap 5 • Node.js • Express • MySQL 8</p>
 
 </td>
 </tr>
