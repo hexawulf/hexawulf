@@ -70,6 +70,21 @@
 </td>
 <td width="50%" style="vertical-align: top;">
 
+<h3>📝 <a href="https://github.com/hexawulf/MarkdownMate">MarkdownMate</a></h3>
+<p><em>Markdown editor with live preview</em></p>
+
+<p><strong>🚀 <a href="https://markdownmate.org">Live Demo</a> | 📂 <a href="https://github.com/hexawulf/MarkdownMate">Source</a> | 🏷️ <a href="https://github.com/hexawulf/MarkdownMate/releases/tag/v3.2.1">v3.2</a></strong></p>
+
+<p>Write and preview Markdown side by side, with math (KaTeX) and code highlighting. Documents stay in the browser and export to .md, HTML or PDF. I use it for course notes and README files.</p>
+
+<p><strong>Tech Stack:</strong> React 18 • TypeScript • Vite • Tailwind • Monaco Editor • Vitest</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" style="vertical-align: top;">
+
 <h3>🔐 <a href="https://github.com/hexawulf/KeyJolt">KeyJolt</a></h3>
 <p><em>Secure PGP &amp; SSH key generator</em></p>
 
@@ -78,21 +93,6 @@
 <p>Generate RSA PGP and SSH key pairs (2048–4096 bit) from a simple web form. Private keys are deleted right after download or at the latest after five minutes, with rate limiting and strict security headers.</p>
 
 <p><strong>Tech Stack:</strong> Java 17 • Spring Boot 4 • Spring Security • Bouncy Castle • Thymeleaf</p>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" style="vertical-align: top;">
-
-<h3>📝 <a href="https://github.com/hexawulf/MarkdownMate">MarkdownMate</a></h3>
-<p><em>Markdown editor with live preview</em></p>
-
-<p><strong>🚀 <a href="https://markdownmate.org">Live Demo</a> | 📂 <a href="https://github.com/hexawulf/MarkdownMate">Source</a> | 🏷️ <a href="https://github.com/hexawulf/MarkdownMate/releases/tag/v3.1.0">v3.1</a></strong></p>
-
-<p>Write and preview Markdown side by side, with math (KaTeX) and code highlighting. Documents stay in the browser and export to .md, HTML or PDF. I use it for course notes and README files.</p>
-
-<p><strong>Tech Stack:</strong> React 18 • TypeScript • Vite • Tailwind • Monaco Editor • Vitest</p>
 
 </td>
 <td width="50%" style="vertical-align: top;">
