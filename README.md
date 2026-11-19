@@ -73,7 +73,7 @@
 <h3>📝 <a href="https://github.com/hexawulf/MarkdownMate">MarkdownMate</a></h3>
 <p><em>Markdown editor with live preview</em></p>
 
-<p><strong>🚀 <a href="https://markdownmate.org">Live Demo</a> | 📂 <a href="https://github.com/hexawulf/MarkdownMate">Source</a> | 🏷️ <a href="https://github.com/hexawulf/MarkdownMate/releases/tag/v3.2.1">v3.2</a></strong></p>
+<p><strong>🚀 <a href="https://markdownmate.org">Live Demo</a> | 📂 <a href="https://github.com/hexawulf/MarkdownMate">Source</a> | 🏷️ <a href="https://github.com/hexawulf/MarkdownMate/releases/tag/v3.3.1">v3.3</a></strong></p>
 
 <p>Write and preview Markdown side by side, with math (KaTeX) and code highlighting. Documents stay in the browser and export to .md, HTML or PDF. I use it for course notes and README files.</p>
 
