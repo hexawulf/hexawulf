@@ -70,7 +70,7 @@
 </td>
 <td width="50%" style="vertical-align: top;">
 
-<h3>🗄️ <a href="https://github.com/hexawulf/sql-scratchpad">SQL Scratchpad</a></h3>
+<h3>🗄️ <a href="https://github.com/hexawulf/sql-scratchpad">sql-scratchpad</a></h3>
 <p><em>Letos-style SQL playground in the browser</em></p>
 
 <p><strong>🚀 <a href="https://sql-scratchpad.com">Live Demo</a> | 📂 <a href="https://github.com/hexawulf/sql-scratchpad">Source</a> | 🏷️ <a href="https://github.com/hexawulf/sql-scratchpad/releases/tag/v0.3.3">v0.3.3</a> | 🐋 <a href="https://hub.docker.com/r/0xwulf/sql-scratchpad">Docker Hub</a></strong></p>
