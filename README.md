@@ -43,14 +43,14 @@
 </td>
 <td width="50%" style="vertical-align: top;">
 
-<h3>🐳 <a href="https://github.com/hexawulf/ContainerYard">ContainerYard</a></h3>
-<p><em>Log-first Docker observability dashboard</em></p>
+<h3>⏱️ <a href="https://github.com/hexawulf/PiTasker">PiTasker</a></h3>
+<p><em>Web UI for the crontab on my servers</em></p>
 
-<p><strong>🚀 <a href="https://containeryard.org">Website</a> | 📂 <a href="https://github.com/hexawulf/ContainerYard">Source</a> | 🏷️ <a href="https://github.com/hexawulf/ContainerYard/releases/tag/v5.1.0">v5.1</a> | 🐋 <a href="https://hub.docker.com/r/0xwulf/containeryard">Docker Hub</a></strong></p>
+<p><strong>🚀 <a href="https://pitasker.piapps.dev">Live Demo</a> | 📂 <a href="https://github.com/hexawulf/PiTasker">Source</a> | 🏷️ <a href="https://github.com/hexawulf/PiTasker/releases/tag/v2.3.0">v2.3</a></strong></p>
 
-<p>Real-time log streaming, Compose stack views and per-container metrics across several Docker and cAdvisor hosts, with roles and an audit log. Ships as a multi-arch image (amd64 and arm64) with SBOM and provenance from CI.</p>
+<p>A web UI for the crontab on a small Linux server: edit cron jobs with a diff shown before every write, run them on demand and keep a run history. Small read-only agents add a view of everything scheduled on my other servers, crontabs and systemd timers alike.</p>
 
-<p><strong>Tech Stack:</strong> React 18 • TypeScript • Express • Prisma • SQLite • Redis • Docker</p>
+<p><strong>Tech Stack:</strong> React 18 • TypeScript • Vite • Tailwind • Express • PostgreSQL • Drizzle • Playwright</p>
 
 </td>
 </tr>
@@ -70,33 +70,6 @@
 </td>
 <td width="50%" style="vertical-align: top;">
 
-<h3>📝 <a href="https://github.com/hexawulf/MarkdownMate">MarkdownMate</a></h3>
-<p><em>Markdown editor with live preview</em></p>
-
-<p><strong>🚀 <a href="https://markdownmate.org">Live Demo</a> | 📂 <a href="https://github.com/hexawulf/MarkdownMate">Source</a> | 🏷️ <a href="https://github.com/hexawulf/MarkdownMate/releases/tag/v3.3.1">v3.3</a></strong></p>
-
-<p>Write and preview Markdown side by side, with math (KaTeX) and code highlighting. Documents stay in the browser and export to .md, HTML or PDF. I use it for course notes and README files.</p>
-
-<p><strong>Tech Stack:</strong> React 18 • TypeScript • Vite • Tailwind • Monaco Editor • Vitest</p>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" style="vertical-align: top;">
-
-<h3>🔐 <a href="https://github.com/hexawulf/KeyJolt">KeyJolt</a></h3>
-<p><em>Secure PGP &amp; SSH key generator</em></p>
-
-<p><strong>🚀 <a href="https://keyjolt.dev">Live Demo</a> | 📂 <a href="https://github.com/hexawulf/KeyJolt">Source</a> | 🏷️ <a href="https://github.com/hexawulf/KeyJolt/releases/tag/v1.2.1">v1.2</a></strong></p>
-
-<p>Generate RSA PGP and SSH key pairs (2048–4096 bit) from a simple web form. Private keys are deleted right after download or at the latest after five minutes, with rate limiting and strict security headers.</p>
-
-<p><strong>Tech Stack:</strong> Java 17 • Spring Boot 4 • Spring Security • Bouncy Castle • Thymeleaf</p>
-
-</td>
-<td width="50%" style="vertical-align: top;">
-
 <h3>🗄️ <a href="https://github.com/hexawulf/sql-scratchpad">SQL Scratchpad</a></h3>
 <p><em>Letos-style SQL playground in the browser</em></p>
 
@@ -105,6 +78,33 @@
 <p>Real MariaDB workspaces in the browser: a schema tree, a multi-tab SQL editor and a result grid, with a sample library dataset or your own imported .sql. Nothing is stored; each workspace runs as its own database user and is deleted after 2 h idle.</p>
 
 <p><strong>Tech Stack:</strong> Vue 3 • TypeScript • CodeMirror 6 • Fastify 5 • MariaDB 11.4 • Playwright • Docker</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" style="vertical-align: top;">
+
+<h3>🐳 <a href="https://github.com/hexawulf/ContainerYard">ContainerYard</a></h3>
+<p><em>Log-first Docker observability dashboard</em></p>
+
+<p><strong>🚀 <a href="https://containeryard.org">Website</a> | 📂 <a href="https://github.com/hexawulf/ContainerYard">Source</a> | 🏷️ <a href="https://github.com/hexawulf/ContainerYard/releases/tag/v5.1.0">v5.1</a> | 🐋 <a href="https://hub.docker.com/r/0xwulf/containeryard">Docker Hub</a></strong></p>
+
+<p>Real-time log streaming, Compose stack views and per-container metrics across several Docker and cAdvisor hosts, with roles and an audit log. Ships as a multi-arch image (amd64 and arm64) with SBOM and provenance from CI.</p>
+
+<p><strong>Tech Stack:</strong> React 18 • TypeScript • Express • Prisma • SQLite • Redis • Docker</p>
+
+</td>
+<td width="50%" style="vertical-align: top;">
+
+<h3>📝 <a href="https://github.com/hexawulf/MarkdownMate">MarkdownMate</a></h3>
+<p><em>Markdown editor with live preview</em></p>
+
+<p><strong>🚀 <a href="https://markdownmate.org">Live Demo</a> | 📂 <a href="https://github.com/hexawulf/MarkdownMate">Source</a> | 🏷️ <a href="https://github.com/hexawulf/MarkdownMate/releases/tag/v3.4.0">v3.4</a></strong></p>
+
+<p>Write and preview Markdown side by side, with math (KaTeX) and code highlighting. Documents stay in the browser and export to .md, HTML or PDF. I use it for course notes and README files.</p>
+
+<p><strong>Tech Stack:</strong> React 18 • TypeScript • Vite • Tailwind • Monaco Editor • Vitest</p>
 
 </td>
 </tr>
