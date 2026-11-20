@@ -97,14 +97,14 @@
 </td>
 <td width="50%" style="vertical-align: top;">
 
-<h3>✂️ <a href="https://github.com/hexawulf/SnippetMate">SnippetMate</a></h3>
-<p><em>Personal code snippet manager</em></p>
+<h3>🗄️ <a href="https://github.com/hexawulf/sql-scratchpad">SQL Scratchpad</a></h3>
+<p><em>Letos-style SQL playground in the browser</em></p>
 
-<p><strong>🚀 <a href="https://www.snippetmate.com">Live Demo</a> | 📂 <a href="https://github.com/hexawulf/SnippetMate">Source</a> | 🏷️ <a href="https://github.com/hexawulf/SnippetMate/releases/tag/v2.1.0">v2.1</a></strong></p>
+<p><strong>🚀 <a href="https://sql-scratchpad.com">Live Demo</a> | 📂 <a href="https://github.com/hexawulf/sql-scratchpad">Source</a> | 🏷️ <a href="https://github.com/hexawulf/sql-scratchpad/releases/tag/v0.3.3">v0.3.3</a> | 🐋 <a href="https://hub.docker.com/r/0xwulf/sql-scratchpad">Docker Hub</a></strong></p>
 
-<p>Paste it, tag it, find it: a snippet manager SPA with Google sign-in, tags, search and JSON import/export. Built with Vue 3, Express and MySQL as my university project.</p>
+<p>Real MariaDB workspaces in the browser: a schema tree, a multi-tab SQL editor and a result grid, with a sample library dataset or your own imported .sql. Nothing is stored; each workspace runs as its own database user and is deleted after 2 h idle.</p>
 
-<p><strong>Tech Stack:</strong> Vue 3 • Vite • Bootstrap 5 • Node.js • Express • MySQL 8</p>
+<p><strong>Tech Stack:</strong> Vue 3 • TypeScript • CodeMirror 6 • Fastify 5 • MariaDB 11.4 • Playwright • Docker</p>
 
 </td>
 </tr>
