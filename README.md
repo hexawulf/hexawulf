@@ -36,7 +36,7 @@
 
 <p><strong>🚀 <a href="https://pideck.piapps.dev">Live Demo</a> | 📂 <a href="https://github.com/hexawulf/PiDeck">Source</a> | 🏷️ <a href="https://github.com/hexawulf/PiDeck/releases/tag/v2.11.0">v2.11</a></strong></p>
 
-<p>The control hub for my homelab: a hub on the Raspberry Pi 5 and small read-only agents on LAN machines, cloud VPSes (over WireGuard) and a Synology NAS. It shows live metrics and 24 h history, remote logs, Docker and PM2 apps, systemd services with alerts, and cron jobs, behind Google sign-in.</p>
+<p>PiDeck runs on my Raspberry Pi Linux home servers (hence the “Pi”): the control hub for my homelab, with a hub on the Raspberry Pi 5 and small read-only agents on LAN machines, cloud VPSes (over WireGuard) and a Synology NAS. It shows live metrics and 24 h history, remote logs, Docker and PM2 apps, systemd services with alerts, and cron jobs, behind Google sign-in.</p>
 
 <p><strong>Tech Stack:</strong> React 18 • TypeScript • Vite • Tailwind • Express • PostgreSQL • Playwright</p>
 
@@ -48,7 +48,7 @@
 
 <p><strong>🚀 <a href="https://pitasker.piapps.dev">Live Demo</a> | 📂 <a href="https://github.com/hexawulf/PiTasker">Source</a> | 🏷️ <a href="https://github.com/hexawulf/PiTasker/releases/tag/v2.3.0">v2.3</a></strong></p>
 
-<p>A web UI for the crontab on a small Linux server: edit cron jobs with a diff shown before every write, run them on demand and keep a run history. Small read-only agents add a view of everything scheduled on my other servers, crontabs and systemd timers alike.</p>
+<p>PiTasker runs on my Raspberry Pi Linux home servers (hence the “Pi”): a web UI for the crontab on a small Linux server, where you edit cron jobs with a diff shown before every write, run them on demand and keep a run history. Small read-only agents add a view of everything scheduled on my other servers, crontabs and systemd timers alike.</p>
 
 <p><strong>Tech Stack:</strong> React 18 • TypeScript • Vite • Tailwind • Express • PostgreSQL • Drizzle • Playwright</p>
 
@@ -61,7 +61,7 @@
 <h3>🐍 <a href="https://github.com/hexawulf/py-scratchpad">py-scratchpad</a></h3>
 <p><em>Browser-only Python scratchpad</em></p>
 
-<p><strong>🚀 <a href="https://py-scratchpad.com">Live Demo</a> | 📂 <a href="https://github.com/hexawulf/py-scratchpad">Source</a> | 🏷️ <a href="https://github.com/hexawulf/py-scratchpad/releases/tag/v0.3.5">v0.3.5</a></strong></p>
+<p><strong>🚀 <a href="https://py-scratchpad.com">Live Demo</a> | 📂 <a href="https://github.com/hexawulf/py-scratchpad">Source</a> | 🏷️ <a href="https://github.com/hexawulf/py-scratchpad/releases/tag/v0.3.5">v0.3.5</a> | 🐋 <a href="https://hub.docker.com/r/0xwulf/py-scratchpad">Docker Hub</a></strong></p>
 
 <p>A small Python editor to keep open next to a course video: run code with Pyodide, syntax highlighting, autosave, and byte-for-byte .py import/export. Everything stays in the browser — no backend, no accounts.</p>
 
