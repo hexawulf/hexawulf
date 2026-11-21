@@ -88,7 +88,7 @@
 <h3>🐳 <a href="https://github.com/hexawulf/ContainerYard">ContainerYard</a></h3>
 <p><em>Log-first Docker observability dashboard</em></p>
 
-<p><strong>🚀 <a href="https://containeryard.org">Website</a> | 📂 <a href="https://github.com/hexawulf/ContainerYard">Source</a> | 🏷️ <a href="https://github.com/hexawulf/ContainerYard/releases/tag/v5.4.0">v5.4</a> | 🐋 <a href="https://hub.docker.com/r/0xwulf/containeryard">Docker Hub</a></strong></p>
+<p><strong>🚀 <a href="https://containeryard.org">Website</a> | 📂 <a href="https://github.com/hexawulf/ContainerYard">Source</a> | 🏷️ <a href="https://github.com/hexawulf/ContainerYard/releases/tag/v5.4.1">v5.4</a> | 🐋 <a href="https://hub.docker.com/r/0xwulf/containeryard">Docker Hub</a></strong></p>
 
 <p>Real-time log streaming, Compose stack views and per-container metrics across several Docker and cAdvisor hosts, with roles and an audit log. Ships as a multi-arch image (amd64 and arm64) with SBOM and provenance from CI.</p>
 
