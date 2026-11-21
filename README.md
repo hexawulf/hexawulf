@@ -61,7 +61,7 @@
 <h3>🐍 <a href="https://github.com/hexawulf/py-scratchpad">py-scratchpad</a></h3>
 <p><em>Browser-only Python scratchpad</em></p>
 
-<p><strong>🚀 <a href="https://py-scratchpad.com">Live Demo</a> | 📂 <a href="https://github.com/hexawulf/py-scratchpad">Source</a> | 🏷️ <a href="https://github.com/hexawulf/py-scratchpad/releases/tag/v0.3.5">v0.3.5</a> | 🐋 <a href="https://hub.docker.com/r/0xwulf/py-scratchpad">Docker Hub</a></strong></p>
+<p><strong>🚀 <a href="https://py-scratchpad.com">Live Demo</a> | 📂 <a href="https://github.com/hexawulf/py-scratchpad">Source</a> | 🏷️ <a href="https://github.com/hexawulf/py-scratchpad/releases/tag/v0.3.6">v0.3.6</a> | 🐋 <a href="https://hub.docker.com/r/0xwulf/py-scratchpad">Docker Hub</a></strong></p>
 
 <p>A small Python editor to keep open next to a course video: run code with Pyodide, syntax highlighting, autosave, and byte-for-byte .py import/export. Everything stays in the browser — no backend, no accounts.</p>
 
@@ -73,7 +73,7 @@
 <h3>🗄️ <a href="https://github.com/hexawulf/sql-scratchpad">sql-scratchpad</a></h3>
 <p><em>Letos-style SQL playground in the browser</em></p>
 
-<p><strong>🚀 <a href="https://sql-scratchpad.com">Live Demo</a> | 📂 <a href="https://github.com/hexawulf/sql-scratchpad">Source</a> | 🏷️ <a href="https://github.com/hexawulf/sql-scratchpad/releases/tag/v0.3.3">v0.3.3</a> | 🐋 <a href="https://hub.docker.com/r/0xwulf/sql-scratchpad">Docker Hub</a></strong></p>
+<p><strong>🚀 <a href="https://sql-scratchpad.com">Live Demo</a> | 📂 <a href="https://github.com/hexawulf/sql-scratchpad">Source</a> | 🏷️ <a href="https://github.com/hexawulf/sql-scratchpad/releases/tag/v0.3.5">v0.3.5</a> | 🐋 <a href="https://hub.docker.com/r/0xwulf/sql-scratchpad">Docker Hub</a></strong></p>
 
 <p>Real MariaDB workspaces in the browser: a schema tree, a multi-tab SQL editor and a result grid, with a sample library dataset or your own imported .sql. Nothing is stored; each workspace runs as its own database user and is deleted after 2 h idle.</p>
 
@@ -88,7 +88,7 @@
 <h3>🐳 <a href="https://github.com/hexawulf/ContainerYard">ContainerYard</a></h3>
 <p><em>Log-first Docker observability dashboard</em></p>
 
-<p><strong>🚀 <a href="https://containeryard.org">Website</a> | 📂 <a href="https://github.com/hexawulf/ContainerYard">Source</a> | 🏷️ <a href="https://github.com/hexawulf/ContainerYard/releases/tag/v5.1.0">v5.1</a> | 🐋 <a href="https://hub.docker.com/r/0xwulf/containeryard">Docker Hub</a></strong></p>
+<p><strong>🚀 <a href="https://containeryard.org">Website</a> | 📂 <a href="https://github.com/hexawulf/ContainerYard">Source</a> | 🏷️ <a href="https://github.com/hexawulf/ContainerYard/releases/tag/v5.4.0">v5.4</a> | 🐋 <a href="https://hub.docker.com/r/0xwulf/containeryard">Docker Hub</a></strong></p>
 
 <p>Real-time log streaming, Compose stack views and per-container metrics across several Docker and cAdvisor hosts, with roles and an audit log. Ships as a multi-arch image (amd64 and arm64) with SBOM and provenance from CI.</p>
 
