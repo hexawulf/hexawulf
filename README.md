@@ -61,7 +61,7 @@
 <h3>🐍 <a href="https://github.com/hexawulf/py-scratchpad">py-scratchpad</a></h3>
 <p><em>Browser-only Python scratchpad</em></p>
 
-<p><strong>🚀 <a href="https://py-scratchpad.com">Live Demo</a> | 📂 <a href="https://github.com/hexawulf/py-scratchpad">Source</a> | 🏷️ <a href="https://github.com/hexawulf/py-scratchpad/releases/tag/v0.3.6">v0.3.6</a> | 🐋 <a href="https://hub.docker.com/r/0xwulf/py-scratchpad">Docker Hub</a></strong></p>
+<p><strong>🚀 <a href="https://py-scratchpad.com">Live Demo</a> | 📂 <a href="https://github.com/hexawulf/py-scratchpad">Source</a> | 🏷️ <a href="https://github.com/hexawulf/py-scratchpad/releases/tag/v0.3.8">v0.3.8</a> | 🐋 <a href="https://hub.docker.com/r/0xwulf/py-scratchpad">Docker Hub</a></strong></p>
 
 <p>A small Python editor to keep open next to a course video: run code with Pyodide, syntax highlighting, autosave, and byte-for-byte .py import/export. Everything stays in the browser — no backend, no accounts.</p>
 
