@@ -34,7 +34,7 @@
 <h3>🍓 <a href="https://github.com/hexawulf/PiDeck">PiDeck</a></h3>
 <p><em>Admin dashboard for my self-hosted servers</em></p>
 
-<p><strong>🚀 <a href="https://pideck.piapps.dev">Live Demo</a> | 📂 <a href="https://github.com/hexawulf/PiDeck">Source</a> | 🏷️ <a href="https://github.com/hexawulf/PiDeck/releases/tag/v2.11.0">v2.11</a></strong></p>
+<p><strong>🚀 <a href="https://pideck.piapps.dev">Live Demo</a> | 📂 <a href="https://github.com/hexawulf/PiDeck">Source</a> | 🏷️ <a href="https://github.com/hexawulf/PiDeck/releases/tag/v2.12.0">v2.12</a></strong></p>
 
 <p>Control hub for my Raspberry Pi homelab. A dashboard running on my Pi 5 that pulls from small read-only agents across my LAN machines, cloud VPSes (over WireGuard) and a Synology NAS, showing live metrics with 24 h history, remote logs, Docker and PM2 apps, systemd services with alerts, and cron jobs, all behind Google sign-in.</p>
 
@@ -46,7 +46,7 @@
 <h3>⏱️ <a href="https://github.com/hexawulf/PiTasker">PiTasker</a></h3>
 <p><em>Web UI for the crontab on my servers</em></p>
 
-<p><strong>🚀 <a href="https://pitasker.piapps.dev">Live Demo</a> | 📂 <a href="https://github.com/hexawulf/PiTasker">Source</a> | 🏷️ <a href="https://github.com/hexawulf/PiTasker/releases/tag/v2.3.0">v2.3</a></strong></p>
+<p><strong>🚀 <a href="https://pitasker.piapps.dev">Live Demo</a> | 📂 <a href="https://github.com/hexawulf/PiTasker">Source</a> | 🏷️ <a href="https://github.com/hexawulf/PiTasker/releases/tag/v2.3.1">v2.3</a></strong></p>
 
 <p>A web UI for cron on my Raspberry Pi servers. Edit jobs with a diff shown before every write, run them on demand, and keep a run history. Small read-only agents pull in everything scheduled across my other machines too, both crontabs and systemd timers.</p>
 
@@ -61,7 +61,7 @@
 <h3>🐍 <a href="https://github.com/hexawulf/py-scratchpad">py-scratchpad</a></h3>
 <p><em>Browser-only Python scratchpad</em></p>
 
-<p><strong>🚀 <a href="https://py-scratchpad.com">Live Demo</a> | 📂 <a href="https://github.com/hexawulf/py-scratchpad">Source</a> | 🏷️ <a href="https://github.com/hexawulf/py-scratchpad/releases/tag/v0.3.8">v0.3.8</a> | 🐋 <a href="https://hub.docker.com/r/0xwulf/py-scratchpad">Docker Hub</a></strong></p>
+<p><strong>🚀 <a href="https://py-scratchpad.com">Live Demo</a> | 📂 <a href="https://github.com/hexawulf/py-scratchpad">Source</a> | 🏷️ <a href="https://github.com/hexawulf/py-scratchpad/releases/tag/v0.3.9">v0.3.9</a> | 🐋 <a href="https://hub.docker.com/r/0xwulf/py-scratchpad">Docker Hub</a></strong></p>
 
 <p>A small Python editor to keep open next to a course video: run code with Pyodide, syntax highlighting, autosave, and byte-for-byte .py import/export. Everything stays in the browser — no backend, no accounts.</p>
 
@@ -73,7 +73,7 @@
 <h3>🗄️ <a href="https://github.com/hexawulf/sql-scratchpad">sql-scratchpad</a></h3>
 <p><em>Letos-style SQL playground in the browser</em></p>
 
-<p><strong>🚀 <a href="https://sql-scratchpad.com">Live Demo</a> | 📂 <a href="https://github.com/hexawulf/sql-scratchpad">Source</a> | 🏷️ <a href="https://github.com/hexawulf/sql-scratchpad/releases/tag/v0.3.5">v0.3.5</a> | 🐋 <a href="https://hub.docker.com/r/0xwulf/sql-scratchpad">Docker Hub</a></strong></p>
+<p><strong>🚀 <a href="https://sql-scratchpad.com">Live Demo</a> | 📂 <a href="https://github.com/hexawulf/sql-scratchpad">Source</a> | 🏷️ <a href="https://github.com/hexawulf/sql-scratchpad/releases/tag/v0.3.6">v0.3.6</a> | 🐋 <a href="https://hub.docker.com/r/0xwulf/sql-scratchpad">Docker Hub</a></strong></p>
 
 <p>Real MariaDB workspaces in the browser: a schema tree, a multi-tab SQL editor and a result grid, with a sample library dataset or your own imported .sql. Nothing is stored; each workspace runs as its own database user and is deleted after 2 h idle.</p>
 
@@ -88,7 +88,7 @@
 <h3>🐳 <a href="https://github.com/hexawulf/ContainerYard">ContainerYard</a></h3>
 <p><em>Log-first Docker observability dashboard</em></p>
 
-<p><strong>🚀 <a href="https://containeryard.org">Website</a> | 📂 <a href="https://github.com/hexawulf/ContainerYard">Source</a> | 🏷️ <a href="https://github.com/hexawulf/ContainerYard/releases/tag/v5.4.1">v5.4</a> | 🐋 <a href="https://hub.docker.com/r/0xwulf/containeryard">Docker Hub</a></strong></p>
+<p><strong>🚀 <a href="https://containeryard.org">Website</a> | 📂 <a href="https://github.com/hexawulf/ContainerYard">Source</a> | 🏷️ <a href="https://github.com/hexawulf/ContainerYard/releases/tag/v5.5.0">v5.5</a> | 🐋 <a href="https://hub.docker.com/r/0xwulf/containeryard">Docker Hub</a></strong></p>
 
 <p>Real-time log streaming, Compose stack views and per-container metrics across several Docker and cAdvisor hosts, with roles and an audit log. Ships as a multi-arch image (amd64 and arm64) with SBOM and provenance from CI.</p>
 
@@ -100,7 +100,7 @@
 <h3>📝 <a href="https://github.com/hexawulf/MarkdownMate">MarkdownMate</a></h3>
 <p><em>Markdown editor with live preview</em></p>
 
-<p><strong>🚀 <a href="https://markdownmate.org">Live Demo</a> | 📂 <a href="https://github.com/hexawulf/MarkdownMate">Source</a> | 🏷️ <a href="https://github.com/hexawulf/MarkdownMate/releases/tag/v3.4.0">v3.4</a></strong></p>
+<p><strong>🚀 <a href="https://markdownmate.org">Live Demo</a> | 📂 <a href="https://github.com/hexawulf/MarkdownMate">Source</a> | 🏷️ <a href="https://github.com/hexawulf/MarkdownMate/releases/tag/v3.5.0">v3.5</a></strong></p>
 
 <p>Write and preview Markdown side by side, with math (KaTeX) and code highlighting. Documents stay in the browser and export to .md, HTML or PDF. I use it for course notes and README files.</p>
 
