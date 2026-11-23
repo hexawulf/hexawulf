@@ -100,7 +100,7 @@ Generates RSA PGP and Ed25519/RSA-4096 SSH key pairs with 128-bit token download
 
 [![Live](https://img.shields.io/badge/Live-py--scratchpad.com-0d9488?style=flat-square&logo=python&logoColor=white)](https://py-scratchpad.com)
 [![Source](https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github)](https://github.com/hexawulf/py-scratchpad)
-[![Release](https://img.shields.io/badge/Release-v0.3.9-2563eb?style=flat-square)](https://github.com/hexawulf/py-scratchpad/releases/tag/v0.3.9)
+[![Release](https://img.shields.io/badge/Release-v0.3.10-2563eb?style=flat-square)](https://github.com/hexawulf/py-scratchpad/releases/tag/v0.3.10)
 [![Docker Hub](https://img.shields.io/badge/Docker-0xwulf%2Fpy--scratchpad-2496ED?style=flat-square&logo=docker&logoColor=white)](https://hub.docker.com/r/0xwulf/py-scratchpad)
 
 A fast Python editor built to sit next to a course lecture: runs Python client-side via WebAssembly (Pyodide) with edge-cached cold loads, CodeMirror 6 highlighting, autosave, and byte-for-byte `.py` import/export. No backend, no accounts.
