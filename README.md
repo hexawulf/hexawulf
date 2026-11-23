@@ -51,7 +51,7 @@ Control hub running on my Raspberry Pi 5 that polls small read-only agents acros
 
 [![Live](https://img.shields.io/badge/Live-pitasker.piapps.dev-0d9488?style=flat-square&logo=linux&logoColor=white)](https://pitasker.piapps.dev)
 [![Source](https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github)](https://github.com/hexawulf/PiTasker)
-[![Release](https://img.shields.io/badge/Release-v2.4.0-2563eb?style=flat-square)](https://github.com/hexawulf/PiTasker/releases/tag/v2.4.0)
+[![Release](https://img.shields.io/badge/Release-v2.4.1-2563eb?style=flat-square)](https://github.com/hexawulf/PiTasker/releases/tag/v2.4.1)
 
 Manage cron jobs on a Raspberry Pi server with a pre-write diff preview, on-demand execution, and full run history. Lightweight read-only agents pull in scheduled crontabs and systemd timers from every other machine in the fleet.
 
