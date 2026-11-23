@@ -83,7 +83,7 @@ Real-time log streaming, Compose stack views, and per-container metrics across m
 
 [![Live](https://img.shields.io/badge/Live-keyjolt.dev-0d9488?style=flat-square&logo=spring&logoColor=white)](https://keyjolt.dev)
 [![Source](https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github)](https://github.com/hexawulf/KeyJolt)
-[![Release](https://img.shields.io/badge/Release-v1.3.0-2563eb?style=flat-square)](https://github.com/hexawulf/KeyJolt/releases/tag/v1.3.0)
+[![Release](https://img.shields.io/badge/Release-v1.3.1-2563eb?style=flat-square)](https://github.com/hexawulf/KeyJolt/releases/tag/v1.3.1)
 
 Generates RSA PGP and Ed25519/RSA-4096 SSH key pairs with 128-bit token download links, Bucket4j rate limiting, strict CSP/HSTS headers, and secure random-overwrite deletion after 5 minutes. Backed by 100 JUnit tests (80% JaCoCo coverage gate), Playwright smoke tests, and Trivy scanning.
 
