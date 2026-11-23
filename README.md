@@ -147,7 +147,7 @@ Organize, search, and share code snippets with multi-facet language/tag filterin
 
 [![Live](https://img.shields.io/badge/Live-markdownmate.org-0d9488?style=flat-square&logo=markdown&logoColor=white)](https://markdownmate.org)
 [![Source](https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github)](https://github.com/hexawulf/MarkdownMate)
-[![Release](https://img.shields.io/badge/Release-v3.5.0-2563eb?style=flat-square)](https://github.com/hexawulf/MarkdownMate/releases/tag/v3.5.0)
+[![Release](https://img.shields.io/badge/Release-v3.5.1-2563eb?style=flat-square)](https://github.com/hexawulf/MarkdownMate/releases/tag/v3.5.1)
 
 Write and preview Markdown in real time on the Monaco Editor with KaTeX math rendering and syntax highlighting. Everything stays local in the browser with one-click export to `.md`, HTML, or PDF—built for CS course notes and technical docs.
 
