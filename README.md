@@ -133,7 +133,7 @@ Real isolated MariaDB 11.4 databases in the browser with a live schema tree, mul
 
 [![Live](https://img.shields.io/badge/Live-codepatchwork.com-0d9488?style=flat-square)](https://codepatchwork.com)
 [![Source](https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github)](https://github.com/hexawulf/CodePatchwork)
-[![Release](https://img.shields.io/badge/Release-v2.1.0-2563eb?style=flat-square)](https://github.com/hexawulf/CodePatchwork/releases/tag/v2.1.0)
+[![Release](https://img.shields.io/badge/Release-v2.1.1-2563eb?style=flat-square)](https://github.com/hexawulf/CodePatchwork/releases/tag/v2.1.1)
 
 Organize, search, and share code snippets with multi-facet language/tag filtering, an inline Snippet Inspector Drawer, a `⌘K`/`Ctrl+K` command palette, collections, five Prism syntax themes, and drag-and-drop JSON round-trip import/export.
 
