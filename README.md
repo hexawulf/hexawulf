@@ -35,9 +35,9 @@
 ### 🍓 [PiDeck](https://github.com/hexawulf/PiDeck)
 *Multi-host admin dashboard for my Raspberry Pi homelab*
 
-[![Live](https://img.shields.io/badge/Live-pideck.piapps.dev-0d9488?style=flat-square&logo=raspberrypi&logoColor=white)](https://pideck.piapps.dev)
+[![Live](https://img.shields.io/badge/Live-pideck.dev-0d9488?style=flat-square&logo=raspberrypi&logoColor=white)](https://pideck.dev)
 [![Source](https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github)](https://github.com/hexawulf/PiDeck)
-[![Release](https://img.shields.io/badge/Release-v2.13.2-2563eb?style=flat-square)](https://github.com/hexawulf/PiDeck/releases/tag/v2.13.2)
+[![Release](https://img.shields.io/badge/Release-v2.13.3-2563eb?style=flat-square)](https://github.com/hexawulf/PiDeck/releases/tag/v2.13.3)
 
 Control hub running on my Raspberry Pi 5 that polls small read-only agents across LAN machines, cloud VPSes (over WireGuard), and a Synology NAS. Shows live system metrics with 24 h history, remote logs, Docker & PM2 apps, systemd services with alerts, and cron jobs behind Google sign-in.
 
@@ -49,9 +49,9 @@ Control hub running on my Raspberry Pi 5 that polls small read-only agents acros
 ### ⏱️ [PiTasker](https://github.com/hexawulf/PiTasker)
 *Web UI for crontabs and scheduled tasks across a Linux fleet*
 
-[![Live](https://img.shields.io/badge/Live-pitasker.piapps.dev-0d9488?style=flat-square&logo=linux&logoColor=white)](https://pitasker.piapps.dev)
+[![Live](https://img.shields.io/badge/Live-pitasker.dev-0d9488?style=flat-square&logo=linux&logoColor=white)](https://pitasker.dev)
 [![Source](https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github)](https://github.com/hexawulf/PiTasker)
-[![Release](https://img.shields.io/badge/Release-v2.4.1-2563eb?style=flat-square)](https://github.com/hexawulf/PiTasker/releases/tag/v2.4.1)
+[![Release](https://img.shields.io/badge/Release-v2.4.2-2563eb?style=flat-square)](https://github.com/hexawulf/PiTasker/releases/tag/v2.4.2)
 
 Manage cron jobs on a Raspberry Pi server with a pre-write diff preview, on-demand execution, and full run history. Lightweight read-only agents pull in scheduled crontabs and systemd timers from every other machine in the fleet.
 
