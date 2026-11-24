@@ -158,7 +158,7 @@ Write and preview Markdown in real time on the Monaco Editor with KaTeX math ren
 
 </table>
 
-> 🍓 **More self-hosted apps on [piapps.dev](https://piapps.dev):** [**SnippetMate**](https://snippetmate.com) ([Source](https://github.com/hexawulf/SnippetMate) · `v2.2.1` · Vue 3 + MySQL web clipper) · [**TableTamer**](https://tabletamer.piapps.dev) ([Source](https://github.com/hexawulf/tabletamer) · `v1.3.0` · browser CSV editor) · [**Reading Habit Tracker**](https://mybooks.piapps.dev) ([Source](https://github.com/hexawulf/reading-habit-tracker) · `v1.3.0` · Goodreads CSV analytics) · [**Stocky**](https://stocky.piapps.dev) ([Source](https://github.com/hexawulf/stocky) · `v1.2.0` · homelab hardware tracker)
+> 🍓 **More self-hosted apps on [piapps.dev](https://piapps.dev):** [**SnippetMate**](https://snippetmate.com) ([Source](https://github.com/hexawulf/SnippetMate) · `v2.2.1` · Vue 3 + MySQL web clipper) · [**TableTamer**](https://tabletamer.piapps.dev) ([Source](https://github.com/hexawulf/tabletamer) · `v1.3.1` · browser CSV editor) · [**Reading Habit Tracker**](https://mybooks.piapps.dev) ([Source](https://github.com/hexawulf/reading-habit-tracker) · `v1.3.0` · Goodreads CSV analytics) · [**Stocky**](https://stocky.piapps.dev) ([Source](https://github.com/hexawulf/stocky) · `v1.2.0` · homelab hardware tracker)
 
 ---
 
