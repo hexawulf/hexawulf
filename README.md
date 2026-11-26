@@ -115,7 +115,7 @@ A fast Python editor built to sit next to a course lecture: runs Python client-s
 
 [![Live](https://img.shields.io/badge/Live-sql--scratchpad.com-0d9488?style=flat-square&logo=mariadb&logoColor=white)](https://sql-scratchpad.com)
 [![Source](https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github)](https://github.com/hexawulf/sql-scratchpad)
-[![Release](https://img.shields.io/badge/Release-v0.3.8-2563eb?style=flat-square)](https://github.com/hexawulf/sql-scratchpad/releases/tag/v0.3.8)
+[![Release](https://img.shields.io/badge/Release-v0.3.9-2563eb?style=flat-square)](https://github.com/hexawulf/sql-scratchpad/releases/tag/v0.3.9)
 [![Docker Hub](https://img.shields.io/badge/Docker-0xwulf%2Fsql--scratchpad-2496ED?style=flat-square&logo=docker&logoColor=white)](https://hub.docker.com/r/0xwulf/sql-scratchpad)
 
 Real isolated MariaDB 11.4 databases in the browser with a live schema tree, multi-tab SQL editor, and result grid. Load the built-in library dataset or import your own `.sql` dump; each workspace runs under its own database user and auto-purges after 2 h idle.
