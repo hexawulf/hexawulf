@@ -32,6 +32,21 @@
 <tr>
 <td width="50%" valign="top">
 
+### 🐳 [ContainerYard](https://github.com/hexawulf/ContainerYard)
+*Log-first multi-host Docker observability dashboard*
+
+[![Website](https://img.shields.io/badge/Website-containeryard.org-0d9488?style=flat-square&logo=docker&logoColor=white)](https://containeryard.org)
+[![Source](https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github)](https://github.com/hexawulf/ContainerYard)
+[![Release](https://img.shields.io/badge/Release-v6.0.0-2563eb?style=flat-square)](https://github.com/hexawulf/ContainerYard/releases/tag/v6.0.0)
+[![Docker Hub](https://img.shields.io/badge/Docker-0xwulf%2Fcontaineryard-2496ED?style=flat-square&logo=docker&logoColor=white)](https://hub.docker.com/r/0xwulf/containeryard)
+
+Real-time log streaming, Compose stack views, proactive alerting, and per-container metrics across multiple Docker and cAdvisor hosts, complete with RBAC roles and an audit log. Published as a multi-arch (`amd64` / `arm64`) image with Playwright E2E in CI, SBOM, and provenance attestations.
+
+`React 19` `Express 5` `TypeScript` `Prisma` `SQLite` `Redis` `Playwright` `Docker`
+
+</td>
+<td width="50%" valign="top">
+
 ### 🍓 [PiDeck](https://github.com/hexawulf/PiDeck)
 *Multi-host admin dashboard for my Raspberry Pi homelab*
 
@@ -44,6 +59,9 @@ Control hub running on my Raspberry Pi 5 that polls small read-only agents acros
 `React 19` `TypeScript` `Vite` `Tailwind` `Express` `PostgreSQL` `Playwright`
 
 </td>
+</tr>
+
+<tr>
 <td width="50%" valign="top">
 
 ### ⏱️ [PiTasker](https://github.com/hexawulf/PiTasker)
@@ -56,24 +74,6 @@ Control hub running on my Raspberry Pi 5 that polls small read-only agents acros
 Manage cron jobs on a Raspberry Pi server with a pre-write diff preview, on-demand execution, and full run history. Lightweight read-only agents pull in scheduled crontabs and systemd timers from every other machine in the fleet.
 
 `React 18` `TypeScript` `Vite` `Tailwind` `Express` `PostgreSQL` `Drizzle` `Playwright`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🐳 [ContainerYard](https://github.com/hexawulf/ContainerYard)
-*Log-first multi-host Docker observability dashboard*
-
-[![Website](https://img.shields.io/badge/Website-containeryard.org-0d9488?style=flat-square&logo=docker&logoColor=white)](https://containeryard.org)
-[![Source](https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github)](https://github.com/hexawulf/ContainerYard)
-[![Release](https://img.shields.io/badge/Release-v5.5.2-2563eb?style=flat-square)](https://github.com/hexawulf/ContainerYard/releases/tag/v5.5.2)
-[![Docker Hub](https://img.shields.io/badge/Docker-0xwulf%2Fcontaineryard-2496ED?style=flat-square&logo=docker&logoColor=white)](https://hub.docker.com/r/0xwulf/containeryard)
-
-Real-time log streaming, Compose stack views, and per-container metrics across multiple Docker and cAdvisor hosts, complete with RBAC roles and an audit log. Published as a multi-arch (`amd64` / `arm64`) image with CI SBOM and provenance attestations.
-
-`React 18` `TypeScript` `Express` `Prisma` `SQLite` `Redis` `Docker`
 
 </td>
 <td width="50%" valign="top">
